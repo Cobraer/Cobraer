@@ -109,9 +109,8 @@ I'm always interested in:
 - 🎓 Knowledge sharing and mentoring
 
 ### Get in Touch:
-- 📧 **Email**: [Your Email Here]
-- 💼 **LinkedIn**: [Your LinkedIn Profile]
-- 🐦 **Twitter**: [Your Twitter Handle]
+- 📧 **Email**: adityabhonagiri04@gmail.com
+- 💼 **LinkedIn**: https://www.linkedin.com/in/adityabhonagiri/
 - 🌐 **Portfolio**: [Your Portfolio Website]
 
 ---
