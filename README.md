@@ -9,10 +9,13 @@ I'm a **Full-Stack Developer** passionate about building scalable, innovative so
 - 💻 Full-stack developer with strong fundamentals in **Java**, **C++**, **Python**, and **C#**
 - 🎯 Specialized in **enterprise applications** using **Spring Boot** and **.NET**
 - 🌐 Building responsive web applications with **React.js** and **Node.js**
-- 📊 Data analysis and visualization enthusiast using **Python** ecosystem tools
 - 🐳 DevOps enthusiast experienced with **Docker** and **Kubernetes**
 - 🐧 Linux/Ubuntu proficient for development and deployment
 - 📈 Currently exploring advanced backend architectures and cloud technologies
+-👯 I’m looking to collaborate on Full Stack real world Projects.
+-💬 Ask me about Computer science Fundamentals.
+-📫 How to reach me: Linkedin.
+-⚡ Fun fact: The name Google was a typo.
 
 ---
 
