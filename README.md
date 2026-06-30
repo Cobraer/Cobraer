@@ -80,9 +80,8 @@ I'm a **Full-Stack Developer** passionate about building scalable, innovative so
 ## 📁 Featured Projects
 
 Check out my repositories to see:
-- 🎓 **Academic Projects** - Full-stack applications showcasing architecture
-- 💼 **Professional Work** - Real-world implementations
-- 🔧 **Utility Tools** - Helpful scripts and libraries
+- 🎓 **Academic Projects** - Prediction of House Prices, Ping Pong Game, Face Detection, Weather Forecast
+- 💼 **Professional Work** - Clinic Management System, Inventory Management System, MU Placement Portal
 - 📚 **Learning Journey** - Growth through open-source contributions
 
 ---
