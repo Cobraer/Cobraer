@@ -12,7 +12,6 @@ I'm a **Full-Stack Developer** passionate about building scalable, innovative so
 - 🐳 DevOps enthusiast experienced with **Docker** and **Kubernetes**
 - 🐧 Linux/Ubuntu proficient for development and deployment
 - 📈 Currently exploring advanced backend architectures and cloud technologies
--👯 I’m looking to collaborate on Full Stack real world Projects.
 
 ---
 
